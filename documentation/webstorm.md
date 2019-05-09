@@ -1,12 +1,12 @@
 
-  #Webstorm
+  # Webstorm
 
 WebStorm est un IDE pour les langages Web, développé par l'entreprise JetBrains et basé sur la plateforme IntelliJ IDEA.
 
 
 
 
-##les principaux raccaurcis
+## les principaux raccaurcis
 
 
 _**Ctrl + Shift + F10**_ pour lancer les tests JUnit en utilisant 

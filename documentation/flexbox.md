@@ -2,11 +2,10 @@
 
  le css a créé un modèle de disposition appelé `Flexible box` (qu’on appelle couramment le FlexBox) qui introduit la nouvelle valeur flex pour la propriété `display` ainsi que la propriété `flex` (et toutes ses sous propriétés).
  
-  ##  display: flex|inline-flex;
+  ###  display: flex|inline-flex;
      
 C'est ainsi qu'on définit un container flex, il est block par défaut ou inline selon la valeur donnée. Cela cée un contexte flex pour tous les descendants directs.
 
-#### `display: flex | inline-flex;`
 
 •`flex` 
  
@@ -45,7 +44,7 @@ C'est ainsi qu'on définit un container flex, il est block par défaut ou inline
  
   #### `justify-content`
  
-  flex-start | flex-end | center | space-between | space-around
+` ####  flex-start | flex-end | center | space-between | space-around`
  
  •`flex-start (par défaut) `
  
@@ -74,7 +73,7 @@ C'est ainsi qu'on définit un container flex, il est block par défaut ou inline
    
    Note : cette propriété n'a pas d'effet quand la flexbox n'a qu'une seule ligne.
    
-#### `align-content: flex-start | flex-end | center | space-between | space-around | stretch`
+####  `align-content: flex-start | flex-end | center | space-between | space-around | stretch`
    
    •`flex-start` 
     

@@ -4,10 +4,10 @@ Le JavaScript est un langage informatique utilisé sur les pages web. Ce langage
 
 
  
-## Les variables
+
 ## Les instructions
 
-#####Les variables,les constantes, exprssions, opérateurs, conditions, et boucles
+##### Les variables,les constantes, exprssions, opérateurs, conditions, et boucles
 
 ######`• les constantes 
 `
@@ -19,7 +19,7 @@ La déclaration const permet de créer une constante nommée accessible uniqueme
 const nom1 = valeur1 [, nom2 = valeur2 [, ... [, nomN = valeurN]]];
 
 
-######`• Variables et affectation`
+###### `• Variables et affectation`
 
 _Exemple :_
 
@@ -27,7 +27,7 @@ var z
 
 z=14
 
-######`• Expression et opérateurs`
+###### `• Expression et opérateurs`
 
  1. Opérateurs binaires:
  
@@ -39,11 +39,11 @@ z=14
 
  2. Opérateurs logique
  
-      •Bianires: ET(**&&**), ou (**||**)
+      • Bianires: ET(**&&**), ou (**||**)
 
-       •Unaires: NON(**!**)
+      • Unaires: NON(**!**)
 
-######`• Conditions `
+###### `• Conditions `
 
   1. Condition: **if**
   

@@ -66,13 +66,11 @@ Les citations fonctionnent comme les réponses des e-mails : vous devez précéd
 
 Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de l'URL entre parenthèses :
 
-`Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !`
 
 ### Les images
 
 Les images s'insèrent de la même façon que les liens. Vous devez simplement mettre un point d'exclamation devant les premiers crochets :
 
-`![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)`
 
 ### Barre de séparation
 
