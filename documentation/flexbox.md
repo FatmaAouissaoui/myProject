@@ -15,11 +15,11 @@ C'est ainsi qu'on définit un container flex, il est block par défaut ou inline
 
  Cette valeur génère un container flex, de niveau inline, à l'intérieur de l'élément.
      
- ### flex-direction
+### flex-direction
  
  La propriété flex-direction établit l'axe principal.
  
- #### `justify-direction`
+#### `justify-direction`
  
 #### `flex-direction: row | row-reverse | column | column-reverse`
  
@@ -40,13 +40,15 @@ C'est ainsi qu'on définit un container flex, il est block par défaut ou inline
   comme row-reverse mais du bas vers le haut
            
  
-  ### justify-content
+### flex-content
  
  La propriété `justify-content` définit l'alignement le long de l'axe principal. Elle permet de distribuer l'espace excédentaire lorsque tous les items flex sur une ligne sont inflexibles ou lorsqu'ils ont atteint leur taille maximale. Elle contrôle aussi l'alignement des items lorsqu'ils débordent.
  
-  #### `justify-content`
  
-` ####  flex-start | flex-end | center | space-between | space-around`
+#### `justify-content`
+ 
+#### `flex-start: row | flex-end | center | space-between | space-around` 
+
  
  •`flex-start (par défaut) `
  
@@ -69,13 +71,13 @@ C'est ainsi qu'on définit un container flex, il est block par défaut ou inline
   les items sont répartis sur la ligne avec un espacement égal autour de chacun.
           
    
-  ### align-content
+### align-content
    
    La propriété `align-content` aligne les lignes d'un container flex à l'intérieur de l'espace où il reste de l'espace sur l'axe cross, un peu comme justify-content aligne les items sur l'axe principal.
    
    Note : cette propriété n'a pas d'effet quand la flexbox n'a qu'une seule ligne.
    
-####  `align-content: flex-start | flex-end | center | space-between | space-around | stretch`
+#### `align-content: flex-start | flex-end | center | space-between | space-around | stretch`
    
    •`flex-start` 
     
