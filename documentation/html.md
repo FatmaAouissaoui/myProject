@@ -8,7 +8,7 @@
 
  
 
-## but d'utiliser language html
+## But d'utiliser language html
   pour le traitement, manipulation et rendu de l'information
  
 
@@ -17,7 +17,7 @@
  en 2000 html est sorti mais il n'a pas encore été standarisé
  
  
-## structures d'une page web
+## Structures d'une page web
  
 * DOCTYPE : indique la version HTML utilisé pour le document HTML
 
@@ -26,7 +26,7 @@
 * head:la balise head contient des informations descriptif sur la page(par exemple le titre)
  
  
-## les commandes html
+## Les commandes html
  
   balise vide: `</br>`
  
@@ -44,16 +44,16 @@
  
 * dans html il y a 6 nivaux de titres de h1 à h6 
  
-## listes ordonnés
+## Listes ordonnés
  
 les listes est défini par balise :`<ol>` et les élements par la balise :`<li>`
 
-## listes non ordonnées
+## Listes non ordonnées
     
 les listes est défini par balise :`<ul>` et les élements par la balise :`<li>`
 
 
-## les liens
+## Les liens
  les liens sont l'essence meme du web car ils permettent de relier des pages entre elles
  
  Exemple:
@@ -65,9 +65,9 @@ les listes est défini par balise :`<ul>` et les élements par la balise :`<li>`
  ecole:contenu
  
  
-## sections,article,header,footer,nav
+## Sections,Article,Header,Footer,Nav
     
- * **section** 
+ * Section 
   
   Une section est un groupage thématique du contenu.
  
@@ -78,7 +78,9 @@ les listes est défini par balise :`<ul>` et les élements par la balise :`<li>`
       
      
     
-   Article `: Est une section représentant un contenu indépendant du reste du document
+  * Article `
+  
+  Est une section représentant un contenu indépendant du reste du document
   
   Exemple:
   
@@ -87,13 +89,18 @@ les listes est défini par balise :`<ul>` et les élements par la balise :`<li>`
   
  
  
- `header` : Spécifier le début de la page
+ •`Header` 
+  
+  Spécifier le début de la page
+ 
 Exemple:
 
    `<header id="header">…</header>`
    
     
-  `nav `: Section avec beaucoup de liens internes au site
+  •`nav `
+  
+  Section avec beaucoup de liens internes au site
    
  _Exemple:_
  
@@ -103,7 +110,7 @@ Exemple:
  
   `</nav>`
 
-## les images
+## Les images
     
  la balise img permettant d'insérer une image dans une page
  
@@ -118,15 +125,15 @@ Exemple:
   attribut `title` donne un intitulé de l'image
 
 
-## taille de l'image 
+## Taille de l'image 
  
  `width` l'argeur , `height`hauteur
 
-## aligenments des images 
+## Aligenments des images 
     
  l'attribut `align` permet d'aligner une image par rapport au texte  ou elle se trouve
  
-## les tableaux
+## Les tableaux
      
  la balise `table` permet des présenter des données sous forme tabulaire
  

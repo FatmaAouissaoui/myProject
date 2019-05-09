@@ -2,18 +2,18 @@
 
 # Git et Github
           
- ## git
+ ## Git
  logiciel qui gère la gestion des versions de code source
  
- ## github
+ ## Github
   service cloud pour l'hébergement à distance de repo git
   
  
   
-### création un nouveau dossier
+### Création un nouveau dossier
  `git init`
 
-### cloner un dépôt
+### Cloner un dépôt
         
  création une copie de votre dépôt local en exécutant la commande:
  
@@ -25,7 +25,7 @@
 •` git clone username@host:/path/to/repository`
 
            
-### ajouter & valider`
+### Ajouter & valider`
            
 vous pouvez proposer un changement (l'ajouter à l'Index) en exécutant les commandes
 
@@ -33,11 +33,11 @@ vous pouvez proposer un changement (l'ajouter à l'Index) en exécutant les comm
 
 •`git add *`                                                                                                                                                                                                                                                     
 
-### les changements
+### Les changements
 
 `git commit -m "Message de validation"`                                       
 
-### envoyer des changements
+### Envoyer des changements
     
  Pour les envoyer à votre dépôt distant, exécutez la commande
  
@@ -53,7 +53,7 @@ Si vous n'avez pas cloné votre dépôt existant et voulez le connecter à votre
 
 
 
-### les branches
+### Les branches
                   
 Les branches sont utilisées pour développer des fonctionnalités isolées des autres. La branche master est la branche par défaut quand vous créez un dépôt. Utilisez les autres branches pour le développement et fusionnez ensuite à la branche principale quand vous avez fini.
 
@@ -75,7 +75,7 @@ une branche n'est pas disponible pour les autres tant que vous ne l'aurez pas en
 
 pour pusher le branche
  
-### mettre à jour & fusionner
+### Mettre à jour & Fusionner
 •`git pull`
 
 pour mettre à jour votre dépôt local vers les dernières validations, exécutez la commande

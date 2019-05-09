@@ -1,4 +1,4 @@
-#  flexbox
+#  Flexbox
 
  le css a créé un modèle de disposition appelé `Flexible box` (qu’on appelle couramment le FlexBox) qui introduit la nouvelle valeur flex pour la propriété `display` ainsi que la propriété `flex` (et toutes ses sous propriétés).
  
