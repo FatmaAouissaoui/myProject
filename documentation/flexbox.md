@@ -19,6 +19,8 @@ C'est ainsi qu'on définit un container flex, il est block par défaut ou inline
  
  La propriété flex-direction établit l'axe principal.
  
+ #### `justify-direction`
+ 
 #### `flex-direction: row | row-reverse | column | column-reverse`
  
 •`row (valeur par défaut)`
