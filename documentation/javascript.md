@@ -9,7 +9,7 @@ Le JavaScript est un langage informatique utilisé sur les pages web. Ce langage
 
 ##### Les variables,les constantes, exprssions, opérateurs, conditions, et boucles
 
-######`• les constantes 
+######  `• les constantes `
 `
 La déclaration const permet de créer une constante nommée accessible uniquement en lecture. 
 
@@ -45,7 +45,7 @@ z=14
 
 ###### `• Conditions `
 
-  1. Condition: **if**
+   1. Condition: **if**
   
   **syntaxe** 
   
@@ -58,10 +58,29 @@ z=14
    
    // instaruction
   
-  }
+  }`
+  
+  
+   2. Boucles : **for**
+   
+   Une boucle for répète des instructions jusqu'à ce qu'une condition donnée ne soit plus vérifiée
+   
+   `_syntaxe_`
+   
+  for ([expressionInitiale]; [condition]; [expressionIncrément])
+     instruction
+   
+   3. Boucles : **while** 
+   
+   Une instruction while permet d'exécuter une instruction tant qu'une condition donnée est vérifiée. 
+   
+   `_syntaxe_`
+   
+   while (condition)
+   
+     instruction
   
 
-L'instruction var (pour variable) permet de déclarer une variable et éventuellement d'initialiser sa valeur.
 
 
 

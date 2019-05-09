@@ -78,7 +78,7 @@ les listes est défini par balise :`<ul>` et les élements par la balise :`<li>`
       
      
     
-  * Article `
+  * `Article `
   
   Est une section représentant un contenu indépendant du reste du document
   
@@ -93,12 +93,12 @@ les listes est défini par balise :`<ul>` et les élements par la balise :`<li>`
   
   Spécifier le début de la page
  
-Exemple:
+_Exemple_:
 
    `<header id="header">…</header>`
    
     
-  •`nav `
+  •`Nav `
   
   Section avec beaucoup de liens internes au site
    
