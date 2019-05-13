@@ -3,13 +3,13 @@ sa m'interissé, j'avais envi de devenir sa secrétaire.
 
 Il travaille sans arrêt mes cette voix que j'ai aimé par vous.
 
-S'amentreppel , quelle voix a l'on prendre ?
+cette voix que j'ai aimé ca m'intreppel , quelle voix allons nous prendre ?
 
-notre chiffre d'appel ne vraiment pas bon , d'autre en plus que la semaine derniére nous va pas vu le client,
+notre chiffre d'affaire ne vraiment pas bon , d'autant plus que la semaine derniére nous va pas vu le client,
 
-quelque étè nos relation nous ne nous ont sortir pas son domage.
+quelque étè nos relation nous ne nous ont sortir pas sans dommage.
 
-les frut qui en était ramassé aux seul ne doivent pas vont être
+les fruits qui en était ramassés aux seul ne doivent pas vont être
 
 ainsi, nous auront de quoi nous aurir jusqu'a la fin de l'année
 
