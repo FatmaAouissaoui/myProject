@@ -1,0 +1,29 @@
+html
+    head
+        title MY CV
+    body
+      header
+        h1 AOUISSAOUI Fatma
+        p  Devloppeuse javascript en formation chez white rabbit
+      section
+        article
+           h2 Experience profesionnelle
+           p
+               each item in ['Projet de fin etude', 'Stage 2016:Poste tunisienne']
+                   li= item
+        article
+           h2 Diplôme
+           p
+            each item in ['2015:Baccauléreat scientifique', '2018:Diplome informatique']
+                 li= item
+        article
+           h2 Compétance
+           p
+             each item in ['Nodejs', 'Typescript', 'Javascript', 'Javascript', 'Pug', 'Github', 'Css3' ,'Html' ]
+                 li= item
+        article
+           h2 Langue
+           p
+
+                li français
+      footer
